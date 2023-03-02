@@ -9,13 +9,13 @@ The title of this package is dadjokeapi.
 ## Location
 *From where can you install this package on the web? Is it on CRAN or GitHub or both?*
 
-You can access this package from GitHub by installing as so: 
+You can access this package from GitHub by installing: 
 ``` r
 # install.packages("devtools")
 devtools::install_github("jhollist/dadjokeapi")
 ```
 
-And it is also on CRAN as so:
+And it is also on CRAN:
 ```r
 install.packages("dadjokeapi")
 ```
@@ -33,7 +33,7 @@ This package unfortunately has no vignettes. Which is extremely disappointing, I
 
 There is one application of this package, and it's this incredible website: https://icanhazdadjoke.com/. The package is used in this website to generate a new dad joke every time you click the green button "new joke" at the top of the webpage. 
 
-A basic application of the package can be done as so:
+A basic application of the package:
 ```{r echo = TRUE}
 dadjokeapi::groan()
 ```
