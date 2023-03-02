@@ -38,6 +38,10 @@ A basic application of the package can be done as so:
 dadjokeapi::groan()
 ```
 
+Here is the generated joke:
+
+**Today, my son asked "Can I have a book mark?" and I burst into tears. 11 years old and he still doesn't know my name is Brian.**
+
 ## Review
 *Write a short (<300 words) review of the package. What is the primary purpose of the package (eg, is used for plotting, reading or scraping data, manipulating data, statistical modeling, etc)? What are the things you like about the package? Are there things you don’t like or wish it did differently? Was the package easy to learn how to use? Would you recommend this package to someone else?*
 
